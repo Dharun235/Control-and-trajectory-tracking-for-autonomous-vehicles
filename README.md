@@ -1,6 +1,6 @@
 # Control and Trajectory Tracking for Autonomous Vehicle
 
-In this project, you will apply the skills you have acquired in this course to design a Proportional-Integral-Derivative (PID) controller to perform vehicle trajectory tracking. Given a trajectory as an array of locations, and a simulation environment, you will design and code a PID controller and test its efficiency on the CARLA simulator used in the industry.
+In this project, I have applied the skills you have acquired in this course to design a Proportional-Integral-Derivative (PID) controller to perform vehicle trajectory tracking. Given a trajectory as an array of locations, and a simulation environment, I have designed and coded a PID controller and tested its efficiency on the CARLA simulator used in the industry.
 
 ## Dependency - Udacity VM Workspace
 The state code in this repository is aligned to run on the Udacity VM workspace. Refer to the classroom page **Ubuntu VM Workspace - Overview** to learn how to access the VM workspace and its restrictions and best practices. 
@@ -220,6 +220,5 @@ kill id
 
 <br/><br/>
 
-## Step 8. Check the Rubric and Submit
-
-Re-check the rubric in the classroom and ensure that your submission satisfies all rubric criteria to pass the project. Once you are confident, submit the project. 
+### Note
+This project is done under the Udacity Self driving car Nanodegree. The solution files as part of project is saved.
